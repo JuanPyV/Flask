@@ -1,5 +1,7 @@
 # Flask: Equipo 7
 
+- Download Python 3.x version: https://www.python.org/downloads/
+
 - Based from: https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask
 
 
